@@ -1,16 +1,25 @@
-# Market Website
+# 📢 Classified Ads Portal  
 
-This project was developed for academic purposes. It consists of a market website with various features and functionalities.
+## 📌 Project Description  
+The **Classified Ads Portal** is a web-based platform that allows users to post, browse, and manage classified ads. The project is built using **PHP** for the backend and **MySQL** (managed via phpMyAdmin) as the database.  
 
-## Project Contributions
+## 🎯 Features  
+🔹 User registration and login  
+🔹 Adding, editing, and deleting ads  
+🔹 Reporting inappropriate content  
+🔹 Filtering ads  
+🔹 User-to-user chat  
+🔹 Support chat with administrators  
+🔹 Ad moderation and management by administrators  
+🔹 Ad approval before publication  
+🔹 Category management  
 
-- **JavaScript and PHP**: Implemented by me.
-- **Database Management**: Handled by me.
-- **HTML and CSS**: Designed by my colleague.
+## ⚙️ Technologies  
+🔸 Backend: PHP  
+🔸 Frontend: HTML, CSS, JavaScript  
+🔸 Database: MySQL (phpMyAdmin)  
 
-
-### Requirements
-
-- PHP 7.4 or higher
-- MySQL 5.7 or higher
-- Apache/Nginx web server
+## 🎓 Academic Project  
+This project was developed as part of a university assignment by a team:  
+- **I was responsible for** PHP, JavaScript, and database implementation.  
+- **My teammate handled** HTML and CSS design.  
